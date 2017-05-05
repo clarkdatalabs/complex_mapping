@@ -1,5 +1,1 @@
-Links
------------------------------
-Color Brewer: http://colorbrewer2.org/
-
-ArcGIS Field Data Types: http://resources.arcgis.com/en/help/main/10.2/index.html#//003n0000001m000000
+![Photo of Complex Data slide showing Napoleon's unsuccessful invasion of Russia in 1812](images/complexdatapresentation.png)]
